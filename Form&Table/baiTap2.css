@@ -1,0 +1,29 @@
+table{
+    border-collapse: collapse;
+width:50%;
+    border:20px solid deepskyblue;
+
+}
+th{
+    border-right: 3px solid red;
+    font-family: Arial,sans-serif;
+    background-color: crimson;
+}
+th,td{
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+
+}
+table{
+
+    background-image: url("https://dean2020.edu.vn/wp-content/uploads/2021/04/anh-nen-trang-34.jpg");
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.Table{
+    border-style: inset;
+    border-width: 5px;
+}
+
